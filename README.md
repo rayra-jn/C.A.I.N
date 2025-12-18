@@ -1,2 +1,5 @@
 # C.A.I.N
-Bem-vindos a Windigo Company!
+
+Oie, eu sou o C.A.I.N!
+
+Bem-vindos a Windigo Company! :D
